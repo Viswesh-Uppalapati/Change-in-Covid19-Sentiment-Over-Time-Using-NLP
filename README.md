@@ -22,7 +22,7 @@ To begin, the JSON format that results from hydrating a tweet using Twitter’s 
 
 Out of the total hydrated tweets dataset of 2.2 million tweets, we found that around 24.92% are missing or were unable to be hydrated due to various reasons such as account termination, tweet deletion, and others. In addition, around 27% of the tweets contained URLs that needed to be cleaned so that they don’t interfere with the sentiment analysis done in this project.
 
-<img src="Figure1.png" alt="Figure 1">
+![pic 3](https://user-images.githubusercontent.com/50200188/186483871-4266e2b2-2295-4ab4-9dc9-621a3a2b4426.PNG)
 
 #### Figure 1. Most Popular Unigrams and bigrams in Data
 
@@ -46,7 +46,7 @@ Upon generating the word clouds of each of the months, it was clear that the des
 
 For a better look at each of the word clouds and the major events leading up to the time of each of the word clouds, visit the following website: https://skylarmwang.github.io/wordcloud/ [5]. The website contains each of the word clouds for the 22 months. Each is labeled by the month and date and each has a list of prominent events that potentially help explain the trend of Covid discussion as seen in the word clouds. The list of current events are compiled from Covid-19 Pandemic Timeline Fast Fact, a blogpost on CNN [4].
 
-<img src="900000.png" alt="Figure 1">
+![pic 4](https://user-images.githubusercontent.com/50200188/186483950-676e6026-af90-4be8-9c68-ed7fdbb6f694.PNG)
 
 #### Figure 2. Word Cloud Generated for January, 2021
 
@@ -54,8 +54,8 @@ Upon generating the word clouds of each of the months, it was clear that the des
 
 For a better look at each of the word clouds and the major events leading up to the time of each of the word clouds, visit the following [website](https://skylarmwang.github.io/wordcloud/) [5]. The website contains each of the word clouds for the 22 months. Each is labeled by the month and date and each has a list of prominent events that potentially help explain the trend of Covid discussion as seen in the word clouds. The list of current events are compiled from Covid-19 Pandemic Timeline Fast Fact, a blogpost on CNN [4].
 
-<img src="Figure3a.png" alt="Figure 1">
-<img src="Figure3b.png" alt="Figure 1">
+![pic 5](https://user-images.githubusercontent.com/50200188/186484012-ee3e5363-a9e7-4706-a72b-45ad9c1684e4.PNG)
+![pic 6](https://user-images.githubusercontent.com/50200188/186484066-2b9e8302-8465-4643-ae26-2d1b882a1e3b.PNG)
 
 #### Figure 3. Change of Sentiment Over Time For Prominent Keywords in Tweets
 
