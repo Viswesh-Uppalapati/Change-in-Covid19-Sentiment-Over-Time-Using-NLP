@@ -55,6 +55,7 @@ Upon generating the word clouds of each of the months, it was clear that the des
 For a better look at each of the word clouds and the major events leading up to the time of each of the word clouds, visit the following [website](https://skylarmwang.github.io/wordcloud/) [5]. The website contains each of the word clouds for the 22 months. Each is labeled by the month and date and each has a list of prominent events that potentially help explain the trend of Covid discussion as seen in the word clouds. The list of current events are compiled from Covid-19 Pandemic Timeline Fast Fact, a blogpost on CNN [4].
 
 ![pic 5](https://user-images.githubusercontent.com/50200188/186484012-ee3e5363-a9e7-4706-a72b-45ad9c1684e4.PNG)
+
 ![pic 6](https://user-images.githubusercontent.com/50200188/186484066-2b9e8302-8465-4643-ae26-2d1b882a1e3b.PNG)
 
 #### Figure 3. Change of Sentiment Over Time For Prominent Keywords in Tweets
